@@ -31,6 +31,9 @@ Index of repositories with assets for references, studies, links, codes and more
 ### TypeScript
 - **[TypeScript Features][11]** - General features of TypeScript in code examples.
 
+### Linux
+- **[Linux References][18]** - A bunch of Linux stuff.
+
 ### GoBarber - Rocketseat bootcamp project
 - **[Backend][12]** - Backend DDD.
 - **[Frontend-Web][13]** - Frontend web.
@@ -56,3 +59,4 @@ Index of repositories with assets for references, studies, links, codes and more
 [15]:https://github.com/SirMcClay/You-Dont-Know-JS
 [16]:https://github.com/SirMcClay/Links-uteis
 [17]:https://github.com/SirMcClay/node-ddd-boilerplate
+[18]:https://github.com/SirMcClay/Linux-References
