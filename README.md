@@ -3,7 +3,19 @@ Index of repositories with assets for references, studies, links, codes and more
 > Some repositories are private. Due to this, this index help to keep all stuff in track.
 
 ## Summary
+- **[References](#references)**
+- **[JavaScript](#javascript)**
+- **[DDD](#ddd)**
+- **[Node.js](#nodejs)**
+- **[Database](#database)**
+- **[Containers](#containers)**
+- **[NPM](#npm)**
+- **[TypeScript](#typescript)**
+- **[Linux](#linux)**
+- **[GoBarber](#gobarber)**
 - **[Links](#links)**
+
+---
 
 ### References
 - **[References][1]** - Main repository (_private_).
