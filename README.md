@@ -1,4 +1,4 @@
-# Assets-Index
+# My-Assets-Index
 Index of repositories with assets for references, studies, links, codes and more.
 > Some repositories are private. Due to this, this index help to keep all stuff in track.
 
